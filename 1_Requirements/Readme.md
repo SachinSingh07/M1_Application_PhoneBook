@@ -41,24 +41,24 @@
        
 # ⚖️ SWOT ANALYSIS 💭
 ## STRENGTHS
-  -NON Governed By Internet
-  -User-friendly Interface
-  -Simple to Use
-  -if there are many Database **Search** option is there
+  - NON Governed By Internet
+  - User-friendly Interface
+  - Simple to Use
+  - if there are many Database **Search** option is there
   
   
 ## WEAKNESS
-  -Only Availabe in Application form
-  -Required Memory to store Dataabse
-  -once deleted database Can't be retained
+  - Only Availabe in Application form
+  - Required Memory to store Dataabse
+  - once deleted database Can't be retained
 
 ## OPPORTUNITIES
-  -Innovation
+  -I nnovation
   -Store complete information under single contact
 
 ## THREATS
-  -Inimitable app function
-  -Database over flow
+  - Inimitable app function
+  - Database over flow
 
 # 4W's and 1H 💭
 ##### WHO -This application is for everyone who want to store complete database of a person .
