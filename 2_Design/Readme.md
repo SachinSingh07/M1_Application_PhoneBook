@@ -1,1 +1,5 @@
 
+# DESIGN 📑
+##### -> STRUCTURAL DIAGRAM
+##### -> BEHAVIOURAL DIAGRAM
+##### -> STATE DIAGRAM
