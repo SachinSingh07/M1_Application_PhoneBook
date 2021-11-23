@@ -1,16 +1,16 @@
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = PhoonBook
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
-src/calculator_operations.c
+SRC = main.c\
+src/application.c
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
-test/test_calculator_operations.c\
+TEST_SRC = src/application.c\
+test/test_application.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
@@ -66,7 +66,7 @@ sanitize_check:
 coverage:$(TEST_SRC)
 	gcc -fprofile-arcs -ftest-coverage $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
-	gcov -a calculator_operations.c
+	gcov -a application.c
 
 # Remove all the built files, invoke by `make clean`
 clean:
