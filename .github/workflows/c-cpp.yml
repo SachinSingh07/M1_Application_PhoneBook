@@ -1,4 +1,4 @@
-name: Linux OS Build
+name: C/C++
 
 on:
   push:
