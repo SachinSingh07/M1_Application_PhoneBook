@@ -4,7 +4,7 @@
 #include"stdlib.h"
 #include"windows.h"
 #include"header.h"
-#include"application.h"
+
 
 int main()
 {
