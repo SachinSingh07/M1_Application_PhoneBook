@@ -4,7 +4,7 @@
 
 int main()
 {
-    system("color 5f");
+    
     start();
     return 0;
 }
