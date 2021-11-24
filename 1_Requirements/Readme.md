@@ -8,7 +8,6 @@
 
   ### Personal information such as name, sex, father’s name, phone number, citizenship number, email and address are asked while adding a record into the Phonebook These records can then be modified, listed, searched for and removed
 
- 
  ## I have used many functions in this mini project These functions are easy to understand as their name only signifies their respective operations ✒️
 
   ### void menu() – This function is used to display the main menu
@@ -19,7 +18,6 @@
   ### void modifyrecord() – This function is used to modify added records
   ### void deleterecord() – It deletes record from file
   ### void searchrecord() – It searches for added record by name
-
 
  ## feature 🖋️
 
@@ -37,16 +35,13 @@
    ### 4. you can SEARCH Database
    ### 5. you can DELETE Datacase
  
- 
-       
- ## SWOT ANALYSIS 💭
+  ## SWOT ANALYSIS 💭
 
   ### STRENGTHS
     1. NON Governed By Internet
     2. User-friendly Interface
     3. Simple to Use
     4. if there are many Database **Search** option is there
-  
   
   ### WEAKNESS
 
