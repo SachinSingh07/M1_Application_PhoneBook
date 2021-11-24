@@ -1,4 +1,4 @@
-name: Bulid Window
+name: Build Window
 
 on:
   push:
