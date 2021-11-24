@@ -39,45 +39,45 @@
  
  
        
-# ⚖️ SWOT ANALYSIS 💭
-## STRENGTHS
-  ###  NON Governed By Internet
-  ###  User-friendly Interface
-  ###  Simple to Use
-  ###  if there are many Database **Search** option is there
+## ⚖️ SWOT ANALYSIS 💭
+### STRENGTHS
+  ####  NON Governed By Internet
+  ####  User-friendly Interface
+  ####  Simple to Use
+  #### if there are many Database **Search** option is there
   
   
-## WEAKNESS
-  ###  Only Availabe in Application form
-  ###  Required Memory to store Dataabse
-  ###  once deleted database Can't be retained
+### WEAKNESS
+  ####  Only Availabe in Application form
+  ####  Required Memory to store Dataabse
+  ####  once deleted database Can't be retained
 
-## OPPORTUNITIES
-  ###  Innovation
-  ###  Store complete information under single contact
+### OPPORTUNITIES
+  ####  Innovation
+  ####  Store complete information under single contact
 
-## THREATS
-  ###  Inimitable app function
-  ###  Database over flow
+### THREATS
+  ####  Inimitable app function
+  ####  Database over flow
 
-## 4W's and 1H 💭
+### 4W's and 1H 💭
 
-### WHO -This application is for everyone who want to store complete database of a person 
-### WHAT -As maintaining of complete information under single contact.
-### WHEN -When user wants to store Personal information such as name, sex, father’s name, phone number, citizenship number, email and address are asked while adding a record into the Phonebook. These records can then be modified, listed, searched for and removed
-### WHERE -This application can be used for personal use. In addition, corporations and organisations use it
+#### WHO -This application is for everyone who want to store complete database of a person 
+#### WHAT -As maintaining of complete information under single contact.
+#### WHEN -When user wants to store Personal information such as name, sex, father’s name, phone number, citizenship number, email and address are asked while adding a record into the Phonebook. These records can then be modified, listed, searched for and removed
+#### WHERE -This application can be used for personal use. In addition, corporations and organisations use it
 
-## 1H 💭
-### HOW -Have to mannually create complete database information through this application 
+ 1H 💭
+#### HOW -Have to mannually create complete database information through this application 
 
-# DETAIL REQUIRMENTS ▶️
+### DETAIL REQUIRMENTS ▶️
 
-## HIGH LEVEL REQUIRMENTS ⬇️
-###  Required ONE IDE
-###  Required GCC Compiler
-###  Required  any desktop system 
+#### HIGH LEVEL REQUIRMENTS ⬇️
+#####  Required ONE IDE
+#####  Required GCC Compiler
+#####  Required  any desktop system 
 
-## LOW LEVEL REQUIREMENTS ⬇️
-###  Database of a person
-###  RAM Minimum 2GB
-###  Storage Minimum 256GB
+### LOW LEVEL REQUIREMENTS ⬇️
+####  Database of a person
+####  RAM Minimum 2GB
+####  Storage Minimum 256GB
