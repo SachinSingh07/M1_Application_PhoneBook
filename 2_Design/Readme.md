@@ -1,9 +1,5 @@
-
-   DESIGN 📑
-   
+DESIGN 📑
    1.STRUCTURAL DIAGRAM
-   
    2.BEHAVIOURAL DIAGRAM
-   
    3.STATE DIAGRAM
    
