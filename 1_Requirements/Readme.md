@@ -66,7 +66,7 @@
      WHEN -When user wants to store Personal information such as name, sex, father’s name, phone number, citizenship number, email and address are asked while adding        a record into the Phonebook. These records can then be modified, listed, searched for and removed
      WHERE -This application can be used for personal use. In addition, corporations and organisations use it
 
- 1H 💭
+  ### 1H 💭
  
      HOW -Have to mannually create complete database information through this application 
 
