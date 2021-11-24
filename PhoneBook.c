@@ -193,7 +193,8 @@ void update()
 	fp6 = fopen("temp.txt","w");
 
 	while(fread(&s, sizeof(s), 1, fp5))
-	{
+	{       
+		
 		k = strcmp(search,s.name);
 		if(k == 0)
 		{
