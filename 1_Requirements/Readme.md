@@ -22,7 +22,8 @@
 ### void searchrecord() – It searches for added record by name
 
 
-## ✒️ feature
+##  feature 🖋️
+
  ### 1_you can **ADD** new database 
  ### IN NEW DATABASE YOU CAN ENTER 
        1. Name
@@ -40,6 +41,7 @@
  
        
 ## ⚖️ SWOT ANALYSIS 💭
+
 ### STRENGTHS
   ####  NON Governed By Internet
   ####  User-friendly Interface
@@ -48,15 +50,18 @@
   
   
 ### WEAKNESS
+
   ####  Only Availabe in Application form
   ####  Required Memory to store Dataabse
   ####  once deleted database Can't be retained
 
 ### OPPORTUNITIES
+
   ####  Innovation
   ####  Store complete information under single contact
 
 ### THREATS
+
   ####  Inimitable app function
   ####  Database over flow
 
@@ -68,16 +73,19 @@
 #### WHERE -This application can be used for personal use. In addition, corporations and organisations use it
 
  1H 💭
+ 
 #### HOW -Have to mannually create complete database information through this application 
 
 ### DETAIL REQUIRMENTS ▶️
 
 #### HIGH LEVEL REQUIRMENTS ⬇️
+
 #####  Required ONE IDE
 #####  Required GCC Compiler
 #####  Required  any desktop system 
 
 ### LOW LEVEL REQUIREMENTS ⬇️
+
 ####  Database of a person
 ####  RAM Minimum 2GB
 ####  Storage Minimum 256GB
