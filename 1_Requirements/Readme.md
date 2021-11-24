@@ -22,7 +22,7 @@
 ### void searchrecord() – It searches for added record by name
 
 
-## feature  🖋️
+## feature 🖋️
 
  ### 1_you can ADD new database 
  ### IN NEW DATABASE YOU CAN ENTER 
