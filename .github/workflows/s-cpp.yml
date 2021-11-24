@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: window-latest
+    runs-on: window-10
 
     steps:
     - uses: actions/checkout@v2
