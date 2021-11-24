@@ -10,7 +10,7 @@
 
  
  
- ## ☑️ I have used many functions in this mini project These functions are easy to understand as their name only signifies their respective operations
+ ## I have used many functions in this mini project These functions are easy to understand as their name only signifies their respective operations ✒️
 
 ### void menu() – This function is used to display the main menu
 ### void start() – This functions calls the menu function mentioned above
@@ -40,7 +40,7 @@
  
  
        
-## ⚖️ SWOT ANALYSIS 💭
+## SWOT ANALYSIS 💭
 
 ### STRENGTHS
   #### NON Governed By Internet
