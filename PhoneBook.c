@@ -183,7 +183,7 @@ void update()
 	system("clear");
 	struct contact s1;
 	char search[20];
-	int k=1,t=0;
+	int q=1,w=0;
 	FILE *fp5,*fp6;
 
 	printf("\n\n\n\n\n\n\t\t\t\t\tENTER THE NAME WHICH YOU WANT TO EDIT\n\n\n\t\t\t\t\t\t  NAME :-");
@@ -195,10 +195,10 @@ void update()
 	while(fread(&s, sizeof(s), 1, fp5))
 	{       
 		
-		k = strcmp(search,s.name);
-		if(k == 0)
+		q = strcmp(search,s.name);
+		if(q == 0)
 		{
-			t=1;
+			w=1;
 			printf("\n\t\t\t\t\tPREVIOUS DATA\n");
 			printf("\n\t\tNAME = %s\n\t\tMOBILE NO. = %llu\n\t\tSEX = %s\n\t\tEMAIL ID = %s\n\t\tADDRESS = %s\n\n",s.name,s.mobile_no,s.sex,s.email,s.address);
 			printf("\n\n\n\n\t\t\t\t\tEDIT YOUR DATA\n\n");
@@ -220,9 +220,9 @@ void update()
 		fwrite(&s, sizeof(s), 1, fp6);
 	}
 
-	if(t == 0)
+	if(w == 0)
 		printf("\n\n\n\n\n\n\n\n\t\t\t\t\t        CONTACT NOT FOUND\n\t\t\t\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n");
-	if(t == 1)
+	if(w == 1)
 	{
 	remove("mohsin.txt");
 	fclose(fp5);
@@ -246,7 +246,7 @@ void delete()
 	system("clear");
 	FILE *fp3,*fp4;
 	char search[20];
-	int k=1,t=0;
+	int e=1,r=0;
 
 	fp3 = fopen("mohsin.txt","r");
 	fp4 = fopen("temp.txt","w");
@@ -256,17 +256,17 @@ void delete()
 	
 	while(fread(&s, sizeof(s), 1, fp3))
 	{
-		k = strcmp(search,s.name);
-		if(k == 0)
+		e = strcmp(search,s.name);
+		if(e == 0)
 		{
-			t=1;
+			r=1;
 			continue;
 		}
 		fwrite(&s, sizeof(s), 1, fp4);
 	}
-	if(t == 0)
+	if(r == 0)
 		printf("\n\n\n\n\n\n\n\n\t\t\t\t\t        CONTACT NOT FOUND\n\t\t\t\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n");
-	if(t == 1)
+	if(r == 1)
 	{
 	remove("mohsin.txt");
 	fclose(fp3);
