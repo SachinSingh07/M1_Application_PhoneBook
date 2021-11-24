@@ -1,7 +1,6 @@
 
    DESIGN 📑
    
-   
    1.STRUCTURAL DIAGRAM
    
    2.BEHAVIOURAL DIAGRAM
