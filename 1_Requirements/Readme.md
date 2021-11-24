@@ -53,8 +53,8 @@
   - once deleted database Can't be retained
 
 ## OPPORTUNITIES
-  -I nnovation
-  -Store complete information under single contact
+  - Innovation
+  - Store complete information under single contact
 
 ## THREATS
   - Inimitable app function
