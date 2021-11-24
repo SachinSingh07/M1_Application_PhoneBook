@@ -10,7 +10,7 @@
 
  
  
- ## ☑️ *I have used many functions in this mini project These functions are easy to understand as their name only signifies their respective operations*
+ ## ☑️ I have used many functions in this mini project These functions are easy to understand as their name only signifies their respective operations
 
 ### void menu() – This function is used to display the main menu
 ### void start() – This functions calls the menu function mentioned above
@@ -24,7 +24,7 @@
 
 ## feature  🖋️
 
- ### 1_you can **ADD** new database 
+ ### 1_you can ADD new database 
  ### IN NEW DATABASE YOU CAN ENTER 
        1. Name
        2. Father Name
@@ -33,10 +33,10 @@
        5. sex
        6. Address
        7. Email Address
- ### 2. you can **List** Database
- ### 3. you can **MODIFY** Database
- ### 4. you can **SEARCH** Database
- ### 5. you can **DELETE** Datacase
+ ### 2. you can List Database
+ ### 3. you can MODIFY Database
+ ### 4. you can SEARCH Database
+ ### 5. you can DELETE Datacase
  
  
        
