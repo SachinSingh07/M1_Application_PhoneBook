@@ -1,4 +1,4 @@
-name: Valging
+name: Valgrind
 
 on:
   push:
