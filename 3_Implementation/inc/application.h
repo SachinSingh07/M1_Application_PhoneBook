@@ -28,10 +28,10 @@ struct contact
 }s;
 
 
-void add();
-void display();
-void search();
-void update();
-void delete();
+int add(int,int);
+int display(int,int);
+int search(int,int);
+int update(int,int);
+int delete(int,int);
 
 #endif //#ifndef APPLICATION_H
