@@ -7,7 +7,7 @@
 
 int main()
 {
-			 
+	int a,b,c,d,e,f,g,h,i,j;		 
 	char user[10],id[10];
 	char user1[]="ace",id1[]="123ace";
 	
