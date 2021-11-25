@@ -17,10 +17,10 @@ int main()
 	printf("\t\t\t\t\t\t******************************************************\n\t\t\t\t\t\t\t***********************************");
 	printf("\n\n\n\n\n\n\n\t\t\t\t\t\t\t  ENTER THE USER NAME AND PASSWORD\n\t\t\t\t\t\t--______________________________________________--");
 	printf("\n\n\n\t\t\t\t\t\t\t  USER NAME:-");
-	scanf("%s",user);
+	scanf("%9s",user);
        // sleep(2);
 	printf("\n\t\t\t\t\t\t\t  PASSWORD:-");
-	scanf("%s",id);
+	scanf("%9s",id);
 
 	if((strcmp(user,user1)==0) && (strcmp(id,id1)==0))
 	{
