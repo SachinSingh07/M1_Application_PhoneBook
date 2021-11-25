@@ -1,6 +1,6 @@
 /**
  * @file application.h
- * @author your name (you@domain.com)
+ * @author Sachin Singh (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2021-11-23
