@@ -47,7 +47,7 @@ doc:
 	make -C ./documentation
 
 # Build and run the unit tests
-$(BUILD):
+$():
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
 
@@ -73,5 +73,5 @@ clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT) *.gcda *.gcno *.gcov
 
 # Create new build folder if not present
-$(BUILD):
+$():
 	mkdir build
