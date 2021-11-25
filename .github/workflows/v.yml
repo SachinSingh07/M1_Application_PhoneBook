@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make test -C 3_Implementation/
-        make valgrind  3_Implementation/test/test.application.c
+        valgrind  3_Implementation/test/test.application.c
