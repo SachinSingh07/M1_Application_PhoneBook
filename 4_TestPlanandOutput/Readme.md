@@ -20,6 +20,6 @@ Low level Requirements
 | ID |	Description |	HLR ID | Status  |
 |-------|-----------|--------|---------|
 | LR01 |	1 New contact shall be added by providing all the information | HR01  | Category |
-| HR01 |	2 contact name should be unique or else it should not be accepted | HR01  | Function |		
-| LR02 |  contact person data is there first being by searching the name of person | HR02  | Functional |
-| LR03 |	While searching all the contact, all should be visible if user wants to see more | HR02   | Functonal |
+| LR02 |	2 contact name should be unique or else it should not be accepted | HR01  | Function |		
+| LR03 |  contact person data is there first being by searching the name of person | HR02  | Functional |
+| LR04 |	While searching all the contact, all should be visible if user wants to see more | HR02   | Functonal |
