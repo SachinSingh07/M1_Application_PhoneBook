@@ -47,7 +47,7 @@ doc:
 	make -C ./documentation
 
 # Build and run the unit tests
-test:$(BUILD)
+$(BUILD):
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
 
