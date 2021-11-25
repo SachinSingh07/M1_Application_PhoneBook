@@ -1,8 +1,8 @@
-TEST_PLAN 📈
+# TEST_PLAN 📈
 
-Detail requirements
+## Detail requirements
 
-High Level Requirements
+### High Level Requirements
 
 | ID	| Description |	Category |	Status |
 |-----|-------------|----------|---------|
@@ -15,7 +15,7 @@ High Level Requirements
 | HR07	| Data should not be lost if any failure |	Non-Functional |	Working |
 | HR08	| When closing the system data should always be stored |	Non-Functional | Working |
 
-Low level Requirements
+### Low level Requirements
 
 | ID |	Description |	HLR ID | Status  |
 |-------|-----------|--------|---------|
