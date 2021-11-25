@@ -73,5 +73,5 @@ clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT) *.gcda *.gcno *.gcov
 
 # Create new build folder if not present
-$():
+$(BUILD):
 	mkdir build
