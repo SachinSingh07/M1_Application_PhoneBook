@@ -47,19 +47,19 @@ int main()
 			scanf("%d",&x);
 			switch(x) 
 			{
-				case 1: display();
+				case 1: display(int a,int b);
 					break;
 
-				case 2: add();
+				case 2: add(int c,int d);
 					break;
 
-				case 3: search();
+				case 3: search(int e,int f);
 					break;
 
-				case 4: update();
+				case 4: update(int g,int h);
 					break;
 
-				case 5: delete();
+				case 5: delete(int i,int j);
 					break;
 
 				default : printf("\n\t\tYOU ENTER WRONG OPTION\n\n");
