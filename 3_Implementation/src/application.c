@@ -14,15 +14,15 @@ int add(int a,int b)
 	printf("\n\n\n\n\t\t\tENTER THE CONTACT\n\n");
 
 	printf("\t\tenter the name : ");
-	scanf("%s",s.name);
+	scanf("%9s",s.name);
 	printf("\n\t\tenter mobile no. :");
 	scanf("%llu",&s.mobile_no);
 	printf("\n\t\tenter sex : ");
-	scanf("%s",s.sex);
+	scanf("%9s",s.sex);
 	printf("\n\t\tEnter email id : ");
-	scanf("%s",s.email);
+	scanf("%9s",s.email);
 	printf("\n\t\tenter Address : ");
-	scanf("%s",s.address);
+	scanf("%9s",s.address);
 
 	fwrite(&s, sizeof(s), 1, fp);
 	
@@ -106,15 +106,15 @@ int update(int g,int h)
 			printf("\n\n\n\n\t\t\t\t\tEDIT YOUR DATA\n\n");
 			
 			printf("\t\tenter the name : ");
-			scanf("%s",s1.name);
+			scanf("%9s",s1.name);
 			printf("\n\t\tenter mobile no. :");
 			scanf("%llu",&s1.mobile_no);
 			printf("\n\t\tenter sex : ");
-			scanf("%s",s1.sex);
+			scanf("%9s",s1.sex);
 			printf("\n\t\tEnter email id : ");
-			scanf("%s",s1.email);
+			scanf("%9s",s1.email);
 			printf("\n\t\tenter Address : ");
-			scanf("%s",s1.address);
+			scanf("%9s",s1.address);
 
 			fwrite(&s1, sizeof(s1), 1, fp6);
 			continue;	
