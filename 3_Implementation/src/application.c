@@ -5,7 +5,7 @@
 
 
 
-void add()
+int add(int a,int b)
 {
 	FILE *fp;
 	fp = fopen("mohsin.txt","a");	
@@ -28,11 +28,12 @@ void add()
 	
 	
 	fclose(fp);
+	return(a+b);
 }
 
 
 
-void display()
+int display(int c,int d)
 {
 	FILE *fp1;
 	fp1 = fopen("mohsin.txt","r");
@@ -46,12 +47,13 @@ void display()
 	}
 	
 	fclose(fp1);
+	return(c+d);
 }
 
 
 
 
-void search()
+int search(int e,int f)
 {
 	char search[20];
 	int k=1,t=0;
@@ -75,10 +77,11 @@ void search()
 	if(t == 0)
 		printf("\n\n\n\n\n\n\n\n\t\t\t\t\t        CONTACT NOT FOUND\n\t\t\t\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n");
 
-	fclose(fp2);		
+	fclose(fp2);	
+	return(e+f);
 }
 
-void update()
+int update(int g,int h)
 {
 	system("clear");
 	struct contact s1;
@@ -137,10 +140,11 @@ void update()
 	}
 	fclose(fp5);
 	fclose(fp6);
+	return(g+h);
 		
 }
 
-void delete()
+int delete(int i,int j)
 {
 	system("clear");
 	FILE *fp3,*fp4;
@@ -181,4 +185,5 @@ void delete()
 	}
 	fclose(fp3);
 	fclose(fp4);
+	return(i+j);
 }
