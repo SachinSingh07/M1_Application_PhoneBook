@@ -98,7 +98,6 @@ Low level Requirements
 | LR04 |	While searching all the contact, all should be visible if user wants to see more | HR02   | Functonal |
 
 Design
-
 High Level Design
 ![image](https://user-images.githubusercontent.com/94338447/143380275-3855d569-a845-46c6-b607-f21854358203.png)
 
