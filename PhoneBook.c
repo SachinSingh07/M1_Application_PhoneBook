@@ -159,7 +159,7 @@ void search()
 	FILE *fp2;
 
 	printf("\n\n\n\n\n\n\t\t\t\t\tENTER THE NAME WHICH YOU WANT TO SERCH\n\n\n\t\t\t\t\t\t  NAME :-");
-	scanf("%s",search);
+	scanf("%9s",search);
 	
 	fp2 = fopen("mohsin.txt","r");
 	while(fread(&s, sizeof(s), 1, fp2))
