@@ -12,5 +12,5 @@ Folder Structure
 |2_Design |	Descibe about the design of Project|
 |3_Implementation	|All coding related files|
 |4_Testplan |	Test cases|
-|5_Testplan	| Complete report of project|
+|5_Report	| Complete report of project|
 |6_ImagesAndVideos |Images and Videos related to project|
